@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["raft"] = [{"text":"impl Default for RaftMessage","synthetic":false,"types":[]},{"text":"impl Default for VoteRequest","synthetic":false,"types":[]},{"text":"impl Default for VoteResponse","synthetic":false,"types":[]},{"text":"impl Default for AppendRequest","synthetic":false,"types":[]},{"text":"impl Default for AppendResponse","synthetic":false,"types":[]},{"text":"impl Default for LogEntry","synthetic":false,"types":[]},{"text":"impl Default for TermId","synthetic":false,"types":[]},{"text":"impl Default for LogIndex","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
